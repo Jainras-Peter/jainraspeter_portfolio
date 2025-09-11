@@ -33,7 +33,7 @@ const ProjectsSection = () => {
       imageUrl: chatImg
     },
     {
-      name: "SecureHR",
+      name: "SecureHR-Employee Management System",
       description: "The main purpose of this application is to protect sensitive employee and organizational data in a web application.",
       techStack: ["Python", "MySQL", "AES & Bcrypt", "KMS"],
       githubLink: "https://github.com/Jainras-Peter/EMS-SecureHR",
