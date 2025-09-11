@@ -1,6 +1,7 @@
 import blogImg from "../assets/bloggg.png";
 import mapzyImg from "../assets/travel.jpg";
 import chatImg from "../assets/chatt.jpg";
+import SecureHR from "../assets/Encryption.jpg";
 
 const ProjectsSection = () => {
   const projects = [
@@ -38,7 +39,7 @@ const ProjectsSection = () => {
       githubLink: "https://github.com/Jainras-Peter/EMS-SecureHR",
       liveLink: "https://github.com/Jainras-Peter/EMS-SecureHR",
       image: "🔐",
-      imageUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archtis.com%2Fwhen-should-you-be-using-encryption%2F&psig=AOvVaw0HZ9F6l8UYF5fdLFz6hXno&ust=1757699217814000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi4l4Gi0Y8DFQAAAAAdAAAAABAf"
+      imageUrl:SecureHR
     }
     // {
     //   name: "Portfolio Website",
