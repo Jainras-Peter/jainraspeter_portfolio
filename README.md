@@ -1,77 +1,69 @@
 
-# jainraspeter_portfolio
+# 🌐 Jainras Peter – Portfolio
 
-# Welcome to your Lovable project
+## 📌 Overview
 
-## Project info
+This is my **personal portfolio website** built to showcase my skills, projects, and experience as a **Computer Science Engineer and Full Stack Developer**.
+It highlights my journey, technical expertise, and the projects I’ve worked on.
 
-**URL**: https://lovable.dev/projects/a91a7d71-7aa2-4bc9-834f-e30a5813886f
+The portfolio is designed with a **modern, responsive UI**, making it accessible across devices.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Tech Stack
 
-**Use Lovable**
+This portfolio was created using **[Lovable](https://lovable.dev)** (an AI-powered development platform), and built with:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a91a7d71-7aa2-4bc9-834f-e30a5813886f) and start prompting.
+* ⚡ **React + Vite** – Frontend framework and bundler
+* 🎨 **Tailwind CSS** – Utility-first styling
+* 🖼️ **shadcn-ui** – Prebuilt accessible UI components
+* 🟦 **TypeScript** – Type-safe JavaScript for better maintainability
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* 📄 **About Me** – Introduction and career objectives
+* 💼 **Projects Showcase** – Details of my real-world projects with links
+* 🛠️ **Skills Section** – Technical skills and tools I work with
+* 📬 **Contact Form** – Reach me directly via the website
+* 📱 **Responsive Design** – Works on desktop, tablet, and mobile
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🖥️ Local Development
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Follow these steps to run the portfolio locally:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# Step 1: Clone the repository
+git clone <YOUR_REPO_URL>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 2: Navigate into the project folder
+cd jainraspeter_portfolio
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Your portfolio will now be live at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🌍 Deployment
 
-## What technologies are used for this project?
+This portfolio is hosted with **Vercel**, making publishing seamless.
+https://jainraspeter-portfolio.vercel.app/
+---
 
-This project is built with:
+🔥 This portfolio is a reflection of my journey as a developer. Built with ❤️ using **Lovable + React + Tailwind CSS**.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a91a7d71-7aa2-4bc9-834f-e30a5813886f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
 
