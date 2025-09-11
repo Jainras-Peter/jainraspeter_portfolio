@@ -31,15 +31,15 @@ const ProjectsSection = () => {
       // image: "🌤️",
       imageUrl: chatImg
     },
-    // {
-    //   name: "Social Media Analytics",
-    //   description: "Dashboard for analyzing social media metrics with data visualization, reporting features, and API integrations.",
-    //   techStack: ["React", "D3.js", "Node.js", "Redis"],
-    //   githubLink: "https://github.com/username/analytics",
-    //   liveLink: "https://analytics-demo.com",
-    //   image: "📊",
-    //   imageUrl: "https://images.unsplash.com/photo-1461344577544-4e5dc9487184?auto=format&fit=crop&w=600&q=80"
-    // },
+    {
+      name: "SecureHR",
+      description: "The main purpose of this application is to protect sensitive employee and organizational data in a web application.",
+      techStack: ["Python", "MySQL", "AES & Bcrypt", "KMS"],
+      githubLink: "https://github.com/Jainras-Peter/EMS-SecureHR",
+      liveLink: "https://github.com/Jainras-Peter/EMS-SecureHR",
+      image: "🔐",
+      imageUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archtis.com%2Fwhen-should-you-be-using-encryption%2F&psig=AOvVaw0HZ9F6l8UYF5fdLFz6hXno&ust=1757699217814000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi4l4Gi0Y8DFQAAAAAdAAAAABAf"
+    }
     // {
     //   name: "Portfolio Website",
     //   description: "Responsive personal portfolio website with modern design, smooth animations, and optimized performance.",
