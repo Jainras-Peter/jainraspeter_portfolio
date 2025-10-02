@@ -2,7 +2,7 @@ import blogImg from "../assets/bloggg.png";
 import mapzyImg from "../assets/travel.jpg";
 import chatImg from "../assets/chatt.jpg";
 import SecureHR from "../assets/Encryption.jpg";
-import NotesApp from "../assets/notes.jpg";
+import NotesApp from "../assets/notesapp.jpg";
 
 const ProjectsSection = () => {
   const projects = [
