@@ -17,17 +17,17 @@ const SkillsSection = () => {
     },
     {
       title: "Authentication",
-      skills: ["JWT", "Passport.js"],
+      skills: ["JWT", "Passport.js","Google OAuth"],
       icon: "🛠️"
     },
     {
       title: "Tools",
-      skills: ["Git","GitHub","VS Code","Postman"],
+      skills: ["Git","GitHub","VS Code","Postman","Docker"],
       icon: "🧠"
     },
     {
       title: "Deployment",
-      skills: ["Vercel","Render"],
+      skills: ["Vercel","Render","Netlify"],
       icon: "🧠"
     }
   ];
