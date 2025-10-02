@@ -2,6 +2,7 @@ import blogImg from "../assets/bloggg.png";
 import mapzyImg from "../assets/travel.jpg";
 import chatImg from "../assets/chatt.jpg";
 import SecureHR from "../assets/Encryption.jpg";
+import NotesApp from "../assets/notes.jpg";
 
 const ProjectsSection = () => {
   const projects = [
@@ -40,16 +41,16 @@ const ProjectsSection = () => {
       liveLink: "https://github.com/Jainras-Peter/EMS-SecureHR",
       image: "🔐",
       imageUrl:SecureHR
+    },
+    {
+      name: "Notes App",
+      description: "This is a full-stack notes app with secure authentication, built using React SPA and Express, supporting Google OAuth and OTP login.",
+      techStack: ["React", "TypeScript", "Tailwind", "Google OAuth","JWT"],
+      githubLink: "https://github.com/Jainras-Peter/notes-app",
+      liveLink: "https://glittering-cat-2f49c8.netlify.app/",
+      image: "✍",
+      imageUrl:NotesApp
     }
-    // {
-    //   name: "Portfolio Website",
-    //   description: "Responsive personal portfolio website with modern design, smooth animations, and optimized performance.",
-    //   techStack: ["React", "TypeScript", "Tailwind", "Framer Motion"],
-    //   githubLink: "https://github.com/username/portfolio",
-    //   liveLink: "https://portfolio-demo.com",
-    //   image: "💼",
-    //   imageUrl: "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=600&q=80"
-    // }
   ];
 
   return (
