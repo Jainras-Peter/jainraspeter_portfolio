@@ -8,8 +8,8 @@ const AboutSection = () => {
   });
 
   const targetValues = {
-    experience: 1,
-    projects: 3,
+    experience: 2,
+    projects: 5,
     effort: 100
   };
 
